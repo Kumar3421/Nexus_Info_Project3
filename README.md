@@ -1,5 +1,5 @@
 # Disease Prediction System using Machine Learning
-Nexus Info Final Project (AI/ML domain)
+Nexus Info Project-3 (AI/ML domain)
 
 
 Made By:  Kumar Shantanu (4th Year CSE Student at KIIT University, Bhubaneswar, Odisha, India)
